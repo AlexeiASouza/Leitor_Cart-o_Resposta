@@ -1,6 +1,5 @@
 pytesseract
 imutils
-tensorflow
 opencv-python
 numpy
 pdf2image
