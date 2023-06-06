@@ -3,3 +3,9 @@ imutils
 opencv-python
 numpy
 pdf2image
+tensorflow-addons
+gin-config
+pytz
+python-dateutil
+matplotlib
+pyyaml
