@@ -22,7 +22,6 @@ answer_card_shape = (1653,2339)
 
 
 #Dimensões da grade de resposta
-#grade_shape = (1505,395)
 grade_shape = (1485,375)
 
 
